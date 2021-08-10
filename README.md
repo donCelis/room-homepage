@@ -1,4 +1,4 @@
-# Frontend Mentor - [Blogr] landing page
+# Frontend Mentor - [Room] landing page
 
 ![Design preview for the Blogr landing page coding challenge](./assets/design/desktop-preview.jpg)
 
