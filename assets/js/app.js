@@ -6,6 +6,7 @@ const options = {
   fadeEffect: {
     crossFade: true,
   },
+  parallax: true,
   loop: true,
   navigation: {
     nextEl: ".swiper-button-next",
